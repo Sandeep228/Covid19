@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+5f8b0d37172f1.site123.me	TRUE	/	FALSE	1999999999	AWSALB	oZCTak4uSbCzNf+6SksSO5ZXwfj7JtK3/m1mpEZxraIW/PIAjCaQ9Ah8bPgxDJ0Hl9PnhlEyLTF93MAcKRFkva52S31RTy1A5rPfMVNyrK7wkixKJh+z1PxJgp2k
+5f8b0d37172f1.site123.me	TRUE	/	FALSE	1999999999	AWSALBCORS	oZCTak4uSbCzNf+6SksSO5ZXwfj7JtK3/m1mpEZxraIW/PIAjCaQ9Ah8bPgxDJ0Hl9PnhlEyLTF93MAcKRFkva52S31RTy1A5rPfMVNyrK7wkixKJh+z1PxJgp2k
+5f8b0d37172f1.site123.me	TRUE	/	FALSE	1999999999	SameSite	None
+
